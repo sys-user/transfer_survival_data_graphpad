@@ -1,5 +1,5 @@
 # tiny STL
 
-a attempt for learn c++ STL
+a test for learn c++ STL
 
 
