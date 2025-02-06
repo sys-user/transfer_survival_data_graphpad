@@ -19,7 +19,7 @@ data = {
 
 # 模拟数据
 total_days = 30  # 模拟30天
-groups = 5
+groups = 5        # 5组
 mice_per_group = 300  # 每组300只小鼠
 
 for day in range(1, total_days + 1):
