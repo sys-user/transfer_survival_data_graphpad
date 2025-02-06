@@ -24,7 +24,9 @@
 
 ### 1. 安装依赖
 
-确保已安装 Python 3.x，并安装所需的库：
+确保已安装 Python 3.x，https://www.python.org
+
+并安装所需的库：
 
 ```bash
 pip install pandas
