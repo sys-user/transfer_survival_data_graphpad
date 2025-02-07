@@ -28,6 +28,8 @@
 
 并安装所需的库：
 
+
+`cmd` 中运行命令
 ```bash
 pip install pandas
 ```
